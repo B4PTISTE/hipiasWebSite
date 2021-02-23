@@ -38,27 +38,22 @@ nav.menu-nav ul li.btn:hover a {
     transition: 0.5s all;
 }
 
-h1 {
+nav.menu-nav a img.img-discord {
+    width: 50px;
+    float: right;
+    padding-right: 30px;
+    padding-top: 25px;
+}
+
+div.Tome1 img.tome1 {
+    width: 30%;
+    margin-top: 19px;
+    margin-left: 150px;
+    float: center;
+}
+
+div.Tome1 h1 {
     color: white;
-    font-family: 'Arial';
-    font-size: 60px;
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-img.page_1 {
-    margin-top: 50px
-}
-
-img.chap4 {
     margin-top: 10px;
-}
-
-img {
-    width: 1000px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 300px;
 }
