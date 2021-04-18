@@ -45,15 +45,23 @@ nav.menu-nav a img.img-discord {
     padding-top: 25px;
 }
 
-div.Tome1 img.tome1 {
-    width: 30%;
-    margin-top: 19px;
-    margin-left: 150px;
-    float: center;
+div.Tome {
+    display: inline-flex;
 }
 
-div.Tome1 h1 {
-    color: white;
-    margin-top: 10px;
-    margin-left: 300px;
+
+/* TOME 1 IMAGE */
+
+div.Tome img.tome1 {
+    width: 65%;
+    margin-top: 15px;
+    margin-left: 125px;
+}
+
+
+/* TOME 2 IMAGE */
+
+div.Tome img.tome2 {
+    width: 69%;
+    margin-top: 15px;
 }
